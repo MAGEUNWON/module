@@ -1,0 +1,12 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"gitgub\""
+  },
+  "author": "",
+  
+  "type": "module"
+}
